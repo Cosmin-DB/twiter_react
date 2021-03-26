@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/twiter_react/static/css/main.406897d4.chunk.css",
+    "main.js": "/twiter_react/static/js/main.4ae0fe73.chunk.js",
+    "main.js.map": "/twiter_react/static/js/main.4ae0fe73.chunk.js.map",
+    "runtime-main.js": "/twiter_react/static/js/runtime-main.0cf612a5.js",
+    "runtime-main.js.map": "/twiter_react/static/js/runtime-main.0cf612a5.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/twiter_react/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.31a0a2a8.chunk.js": "/twiter_react/static/js/2.31a0a2a8.chunk.js",
+    "static/js/2.31a0a2a8.chunk.js.map": "/twiter_react/static/js/2.31a0a2a8.chunk.js.map",
+    "static/js/3.7776841d.chunk.js": "/twiter_react/static/js/3.7776841d.chunk.js",
+    "static/js/3.7776841d.chunk.js.map": "/twiter_react/static/js/3.7776841d.chunk.js.map",
+    "index.html": "/twiter_react/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/twiter_react/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.406897d4.chunk.css.map": "/twiter_react/static/css/main.406897d4.chunk.css.map",
+    "static/js/2.31a0a2a8.chunk.js.LICENSE.txt": "/twiter_react/static/js/2.31a0a2a8.chunk.js.LICENSE.txt",
+    "static/media/bird.7a65b904.png": "/twiter_react/static/media/bird.7a65b904.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf612a5.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.31a0a2a8.chunk.js",
+    "static/css/main.406897d4.chunk.css",
+    "static/js/main.4ae0fe73.chunk.js"
+  ]
+}
